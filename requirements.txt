@@ -9,4 +9,3 @@ requests
 tgcrypto
 sqlalchemy
 psycopg2-binary
-feedparse
